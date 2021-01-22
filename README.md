@@ -1,5 +1,5 @@
 # Catcalls of Amsterdam
-Launch pilot version: January 2021 - (work continued on main repo)
+Launch pilot version: January 2021 - (work continued on [main repo](https://github.com/lisannekraal/catcall))
 
 An application to visualize, report and manage data on catcalling. Made for @CatcallsofAms, a local Instagram-based initiative part of a global 'chalk back' movement. In over a 150 cities wordwide, young girls are fighting street harassment by literally chalking catcalls on the sidewalk and raise awareness. More about this, check out https://www.instagram.com/catcallsofams/ and https://www.chalkback.org/.
 
